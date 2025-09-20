@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef" \
+"../../../../4bit_adder.srcs/sources_1/new/FullAdder.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

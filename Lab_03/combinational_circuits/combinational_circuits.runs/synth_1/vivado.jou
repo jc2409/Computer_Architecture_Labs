@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Sep 20 23:41:01 2025
+# Process ID         : 82315
+# Current directory  : /home/jc2409/Projects/Comp_Arch_Onur_Labs/Lab_03/combinational_circuits/combinational_circuits.runs/synth_1
+# Command line       : vivado -log segment_decode.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source segment_decode.tcl
+# Log file           : /home/jc2409/Projects/Comp_Arch_Onur_Labs/Lab_03/combinational_circuits/combinational_circuits.runs/synth_1/segment_decode.vds
+# Journal file       : /home/jc2409/Projects/Comp_Arch_Onur_Labs/Lab_03/combinational_circuits/combinational_circuits.runs/synth_1/vivado.jou
+# Running On         : andrew0923
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.3 LTS
+# Processor Detail   : AMD Ryzen 9 7940HS w/ Radeon 780M Graphics
+# CPU Frequency      : 4238.817 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 31309 MB
+# Swap memory        : 8589 MB
+# Total Virtual      : 39899 MB
+# Available Virtual  : 29495 MB
+#-----------------------------------------------------------
+source segment_decode.tcl -notrace

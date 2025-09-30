@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+  12 tests completed with    0 errors
+$finish called at time : 1200 ns : File "/home/jc2409/Projects/Comp_Arch_Onur_Labs/Lab_06/ALU_Verification/ALU_Verification.srcs/sim_1/imports/lab6_files/ALU_test.v" Line 112

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef" \
+"../../../../ALU_Verification.srcs/sources_1/imports/lab6_files/bad_ALU.v" \
+"../../../../ALU_Verification.srcs/sim_1/imports/lab6_files/ALU_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
